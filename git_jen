@@ -1,0 +1,11 @@
+lst=[1,2,3,4,5]
+for i in lst:
+  print(i)
+
+
+print("hello try your best never give up.fighting!!!")
+
+str="monica jadapally"
+for s in str:
+  print(s)
+  
